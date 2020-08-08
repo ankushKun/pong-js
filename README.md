@@ -4,7 +4,7 @@ pong game made in javascript using p5js library
 ### Open the index.html file in any modern web browser (Not Internet Explorer!)
 
 ### How To Play?
-UP ARROW - moves paddle up
+UP ARROW - moves paddle up\
 DOWN ARROW - moves paddle down
 
 ## Connect with me
